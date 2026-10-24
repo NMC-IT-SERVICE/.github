@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/nmc-it-service-logo.webp" alt="NMC IT SERVICE – Network Management Cybersecurity" width="600">
+</p>
+
 # NMC IT SERVICE
 
 **Network · Management · Cybersecurity**
