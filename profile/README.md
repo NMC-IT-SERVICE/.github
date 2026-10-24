@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/nmc-it-service-logo.png" alt="NMC IT SERVICE – Network Management Cybersecurity" width="600">
+  <img src="./assets/nmc-it-service-logo.png" alt="NMC IT SERVICE – Network Management Cybersecurity" width="700">
 </p>
 
 # NMC IT SERVICE
