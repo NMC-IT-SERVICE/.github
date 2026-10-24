@@ -123,6 +123,7 @@ Die Entwicklungs-Repositories von NMC IT SERVICE sind überwiegend **privat**. D
 
 Private Repositories enthalten unter anderem die laufende Entwicklung eigener Software- und Infrastrukturprojekte. Quellcode, interne Systeme und nicht veröffentlichte Entwicklungsstände werden nicht öffentlich bereitgestellt.
 
+
 ---
 
 # English
@@ -131,47 +132,82 @@ Private Repositories enthalten unter anderem die laufende Entwicklung eigener So
 
 **Network · Management · Cybersecurity**
 
-NMC IT SERVICE develops and operates technical solutions for **IT services, server infrastructure, web and software development, networking, DNS and cybersecurity**.
+NMC IT SERVICE develops and operates technical solutions covering **IT services, server & infrastructure, web & software, and cybersecurity**.
 
-Active in IT and digital technologies since **2012**, the focus is on maintainable, structured and practical technical solutions. The current **NMC IT SERVICE** brand continues technical work previously operated under **MMC NETWORK**.
+Active in IT and digital technologies since **2012**, the focus is on understandable, maintainable and practical technical solutions. The current **NMC IT SERVICE** brand continues the technical work previously operated under **MMC NETWORK**.
 
 ## What NMC stands for
+
+**NMC** stands for:
 
 - **Network** – networks, DNS, connectivity and technical infrastructure
 - **Management** – structured operations, administration, automation and traceable processes
 - **Cybersecurity** – system hardening, permissions, secure configurations and controlled access
 
-Servers, networks, applications and security measures are treated as parts of one technical environment rather than isolated components.
+Servers, networks, applications and security measures are not treated as isolated components, but as one interconnected technical environment.
 
-## Core areas
+## Technical focus areas
 
-- IT services and system administration
+### IT Services & System Administration
+
 - Linux and web servers
-- server infrastructure and virtualization
+- system and service configuration
+- user and permission concepts
+- updates, maintenance and troubleshooting
+- documented and traceable operating processes
+
+### Server & Infrastructure
+
+- server operations and web server environments
+- virtualization
 - containers and reproducible application environments
-- networking and DNS
-- web applications and custom software
-- APIs, integrations and automation
-- cybersecurity, system hardening and access control
+- network and DNS infrastructure
+- TLS/HTTPS and certificates
+- structured separation and management of services
+
+### Web & Software
+
+- web applications
+- custom software
+- APIs and interfaces
+- automation of recurring processes
+- role- and permission-based applications
+- maintainable and extensible project structures
+
+### Cybersecurity
+
+- system hardening
+- reduction of unnecessary attack surfaces
+- permission and access concepts
+- segmentation and controlled administrative access
+- update strategies and technical traceability
 
 ## Own solutions
 
 ### LicenseHub
 
-LicenseHub provides centralized management for license status, validity periods, customers, products, software versions and software updates.
+**LicenseHub** is a platform developed by NMC IT SERVICE for the centralized management of:
+
+- license status and validity periods
+- customer and product assignments
+- software versions
+- software updates
+- technical interfaces to connected systems
 
 More information: https://nmc-it-service.com/licensehub
 
 ### Dynamic DNS Server
 
-The NMC Dynamic DNS Server provides Dynamic DNS and DNS management with:
+The **NMC Dynamic DNS Server** is an in-house Dynamic DNS and DNS management solution for managed hosts and domains.
 
-- custom domain support
-- managed DynDNS hosts
-- automatic IP updates
+Supported capabilities include:
+
+- linking custom domains
+- managed DynDNS hostnames
+- automatic updating of changing IP addresses
 - user and host assignments
 - traceable update activity
-- DNS management
+- administrable DNS functions
 
 Supported DNS record types:
 
@@ -179,8 +215,40 @@ Supported DNS record types:
 
 More information: https://nmc-it-service.com/dynamic-dns
 
-## Development
+## How we work
 
-Most NMC IT SERVICE development repositories are **private**. This public organization profile is the official GitHub presence and public reference for the **NMC IT SERVICE** brand.
+NMC IT SERVICE focuses on technical solutions that:
 
-Official website: https://nmc-it-service.com
+- are structured in an understandable way
+- can be documented transparently
+- remain maintainable over the long term
+- can be extended cleanly
+- are aligned with their actual purpose of use
+
+The focus is not on the number of products used, but on a technical structure in which the individual components work together reliably.
+
+## Official website
+
+### German
+
+- Website: https://nmc-it-service.de
+- IT Service: https://nmc-it-service.de/it-service
+- Server & Infrastructure: https://nmc-it-service.de/server-infrastruktur
+- Web & Software: https://nmc-it-service.de/web-software
+- Cybersecurity: https://nmc-it-service.de/cybersecurity
+- Own solutions: https://nmc-it-service.de/loesungen
+
+### English
+
+- Website: https://nmc-it-service.com
+- IT Services: https://nmc-it-service.com/it-services
+- Server & Infrastructure: https://nmc-it-service.com/server-infrastructure
+- Web & Software: https://nmc-it-service.com/web-software
+- Cybersecurity: https://nmc-it-service.com/cybersecurity
+- Solutions: https://nmc-it-service.com/solutions
+
+## Development on GitHub
+
+The development repositories of NMC IT SERVICE are predominantly **private**. This public organization profile serves as the official GitHub presence and as a reference for the **NMC IT SERVICE** brand.
+
+Private repositories include, among other things, the ongoing development of proprietary software and infrastructure projects. Source code, internal systems and unpublished development states are not made publicly available.
